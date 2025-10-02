@@ -1,7 +1,10 @@
-//------------------------------------------------------------------------
-// Copyright(c) 2025 Void Audio.
-//------------------------------------------------------------------------
-
+/*!
+ * \file dsp.h
+ * \brief DSP Stuff
+ * \author Derek Wingard <derekwingard@gmail.com>
+ * \license SPDX-License-Identifier: MIT
+ * \date 02 Oct 2025
+ */
 #pragma once
 
 using namespace VOID;
